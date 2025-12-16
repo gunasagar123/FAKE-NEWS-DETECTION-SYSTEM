@@ -31,3 +31,43 @@ uvicorn app:app --reload
 The application will run at:
 
 http://localhost:3000
+
+
+
+Technologies Used
+
+Python
+
+Transformers (BERT / RoBERTa)
+
+PyTorch / TensorFlow
+
+Flask / FastAPI
+
+React.js (Dashboard)
+
+📊 Output
+
+Fake News Classification (Real / Fake)
+
+Confidence Score
+
+Explainable Attention Visualization
+
+🔮 Future Scope
+
+Multilingual fake news detection
+
+Social media and video,Audio
+
+Improved explainability modules
+
+📜 License
+
+This project is developed for academic and research purposes.
+
+👤 Author
+
+PADUM GUNA SAGAR
+Department of Computer Science
+Email: padumgunasagar@gmail.om
